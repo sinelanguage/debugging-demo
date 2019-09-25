@@ -1,4 +1,4 @@
-# Dobugging JS
+# Debugging JS
 
 ## Goals
 - setting breakpoints to debug code at a specific line
